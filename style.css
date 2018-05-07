@@ -1,5 +1,18 @@
 body{
-    margin-top: 70px;
+    
     background: #333;
+    
     color: #fff;
+}
+
+#ContenedorPrincipal{
+    position: fixed;
+    border-style: dashed;
+    width: 80%;
+    height: 90%;
+}
+
+#ConvertidorCompleto {
+    position: absolute;
+
 }
